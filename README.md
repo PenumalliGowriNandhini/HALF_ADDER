@@ -15,3 +15,5 @@ endmodule
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/020e1531-1c11-42e5-9f27-f09ba459984d)
 # Carry = A AND B
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
+# output
+![half adder](https://github.com/PenumalliGowriNandhini/HALF_ADDER/assets/163722612/3ca6465b-4b34-4acb-8d2d-e84db8e943f1)
