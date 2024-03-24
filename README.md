@@ -1,3 +1,4 @@
+# Half Adder
 # AIM:
 To simulate and synthesis Half adder using Xilinx ISE.
 # APPARATUS REQUIRED:
